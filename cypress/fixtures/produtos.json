@@ -1,0 +1,21 @@
+[
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "32",
+        "cor": "Blue",
+        "quantidade": 2
+    },
+    {
+       "nomeProduto": "Abominable Hoodie",
+        "tamanho": "M",
+        "cor": "Blue",
+        "quantidade": 1 
+    },
+    {
+        "nomeProduto": "Cronus Yoga Pant",
+         "tamanho": "36",
+         "cor": "Black",
+         "quantidade": 7
+     }
+
+]
